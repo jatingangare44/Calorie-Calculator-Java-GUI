@@ -1,0 +1,15 @@
+The prerequisites for running this program are as follows:
+
+1. Java Development Kit (JDK): Ensure that you have JDK installed on your system. You can download and install JDK from the official Oracle website or adopt OpenJDK from other sources.
+
+2. Java IDE or Text Editor: Although you can compile and run Java programs using command-line tools, having an Integrated Development Environment (IDE) like IntelliJ IDEA, Eclipse, or NetBeans can significantly ease the development process. Alternatively, you can use a simple text editor like Notepad++ or Visual Studio Code.
+
+3. Java Swing Library: Java Swing is used to create the graphical user interface (GUI) in this program. It's a part of the Java Foundation Classes (JFC) and comes bundled with the Java Development Kit (JDK). So, if you have JDK installed, you already have Swing.
+
+4. Basic Understanding of Java: You should have a basic understanding of Java programming language concepts like classes, methods, variables, control structures (if-else, switch), exceptions, etc.
+
+5. Understanding of GUI Programming: Familiarity with GUI programming concepts such as components (buttons, text fields, labels), event handling, layout managers, etc., will be helpful in understanding and modifying the GUI code.
+
+6. Understanding of CSV File Handling: The program writes data to a CSV file. While not strictly necessary, having a basic understanding of how to handle file I/O operations in Java and the CSV format will help in understanding and modifying the file writing code.
+
+By meeting these prerequisites, you should be able to compile and run the provided Java program successfully.
